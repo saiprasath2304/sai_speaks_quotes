@@ -2,7 +2,7 @@
 
 Effective Date: [Date you publish]
 
-Sai Speaks ("the App") respects the privacy of its users. 
+Sai Speaks - respects the privacy of its users. 
 
 Information Collection:
 - The App does not collect, store, or share any personal user data.
