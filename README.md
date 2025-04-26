@@ -1,4 +1,4 @@
-Privacy Policy for Sai Speaks
+# Sai Speaks - Privacy Policy
 
 Effective Date: [Date you publish]
 
