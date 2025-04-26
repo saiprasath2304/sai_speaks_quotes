@@ -21,5 +21,4 @@ Changes to this Policy:
 - This Privacy Policy may be updated occasionally. Users are encouraged to review it periodically.
 
 Contact Us:
-- If you have any questions about this Privacy Policy, please get in touch with us at sp.pers23@gmail.com.
-
+- If you have any questions about this Privacy Policy, please get in touch with us at [sp.pers23@gmail.com](mailto:sp.pers23@gmail.com)
